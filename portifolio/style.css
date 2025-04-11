@@ -8,13 +8,15 @@
     }
 
         body {
-        background-color: rgb(174, 98, 178);
+        background-color: #0D0D0D;
     }
         
 header {
     padding: 45px;
     border-bottom: 5px rgb(208, 68, 115);
-    background-color: rgb(59, 17, 70);
+    background-color: #330B0B;
+    border: #5E0C0C;
+
     }
 
     header div {
@@ -23,7 +25,7 @@ header {
 
 
     header div a {
-        color: rgb(167, 69, 176);
+        color: #E6E6E6;
         font-size: 20px;
         line-height: 35px;
         margin: 0 15px;
@@ -35,7 +37,7 @@ header {
         }
 
         header div a:hover {
-            color: rgb(29, 255, 214);
+            color: #FF0033;
             transition: color 2000ms;
             font-size: 30px;
             }
