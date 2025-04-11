@@ -1,0 +1,44 @@
+
+      @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Underdog&display=swap');
+
+     *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+
+        body {
+        background-color: rgb(174, 98, 178);
+    }
+        
+header {
+    padding: 45px;
+    border-bottom: 5px rgb(208, 68, 115);
+    background-color: rgb(59, 17, 70);
+    }
+
+    header div {
+        text-align: center;
+    }
+
+
+    header div a {
+        color: rgb(167, 69, 176);
+        font-size: 20px;
+        line-height: 35px;
+        margin: 0 15px;
+        text-decoration:none;
+        font-family:"Underdog", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        transition: color 2000ms;
+        }
+
+        header div a:hover {
+            color: rgb(29, 255, 214);
+            transition: color 2000ms;
+            font-size: 30px;
+            }
+    
+
+   
